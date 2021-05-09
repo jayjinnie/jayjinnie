@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 Let me introduce myself!
 
-<!--
-**jayjinnie/jayjinnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I'm a student at **Hanyang University ERICA**.
 
-Here are some ideas to get you started:
+🌱 My Majors are **Media & Social Informatics** and **Software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on ...
+- Python Algorithm Study in **TAVE 7th** 👉 `@tave_wave` in IG
+- Manager of **DAYS** 👉 `@_hy_days` in IG
+- Supporters of **Creativity &Interaction Lab** 👉 `@creativity_interaction` in IG
+
+🤔 I'm currently interested in **Data Analysis, Visualization,** and **Machine Learning**.
+
+💻 My Gist: https://gist.github.com/jayjinnie
+
+🎠 My Blog: https://blog.naver.com/eunvely227
