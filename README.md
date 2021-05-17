@@ -1,6 +1,6 @@
 ### Hi there 👋 Let me introduce myself!
 
-✨ I'm a student at **Hanyang University ERICA**.
+✨ I'm a student at **Hanyang Univ ERICA**.
 
 🌱 My Majors are **Media & Social Informatics** and **Software**.
 
