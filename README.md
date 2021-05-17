@@ -9,7 +9,7 @@
 - Manager of **DAYS** 👉 `@_hy_days` in IG
 - Supporters of **Creativity &Interaction Lab** 👉 `@creativity_interaction` in IG
 
-🤔 I'm currently interested in **Data Analysis, Visualization,** and **Machine Learning**.
+🤔 I'm currently interested in **Data Analysis, Visualization**.
 
 💻 My Gist: https://gist.github.com/jayjinnie
 
