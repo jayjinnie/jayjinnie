@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=300&section=header&text=Welcome%20to%20Eunjin's%20Git%20Hub&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
 
+--- 
+
 ### 🏛 **Hanyang Univ ERICA**.
 
-### 📚 **Media & Social Informatics** and **Software**.
+### 📚 *Media & Social Informatics* and *Software*.
 
-### 🌈 I'm currently interested in **Data Analysis, Visualization**.
+### 🌈 I'm currently interested in *Data Analysis*, *Data Visualization*.
+
+--- 
 
 🌀 My **GitHub Gist** 👉 <a href="https://gist.github.com/jayjinnie" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Gist-181717?style=flat-square&logo=GitHub&logoColor=white"></a> 
 
@@ -26,7 +30,7 @@
 
 | **Being Studied**
 
-<img src="https://img.shields.io/badge/pandas-94B4A4?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-F8DC75?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/XGBoost-F8DC75?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPY&logoColor=white"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white"> <img src="https://img.shields.io/badge/Requests-F8DC75?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/BeautifulSoup-F8DC75?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> 
+<img src="https://img.shields.io/badge/pandas-94B4A4?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/XGBoost-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPY&logoColor=white"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white"> <img src="https://img.shields.io/badge/Requests-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/BeautifulSoup-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> 
 
 | **Be Learning**
 
@@ -34,86 +38,21 @@
 
 | **Be Interested In**
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
 
 --- 
 
 # 🔭 **Resume**
-
-## **《ERICA Activities》**
-
-### [2020-1 ~ 2020-2]  
-
- 소프트웨어융합대학 알고리즘 학회 **영과일 (0&1)** 학회원
-
-   - C언어 기초반, C언어 클리닉, 자료구조반 스터디 참여
-
-### [2020-2]   
-
- 한양 또래 튜터링 프로그램 Python 튜터링 **팀 Anaconda** 팀원
-
-   - 최우수상 수상
-
- 언론정보대학 정보사회미디어학과 데이터사이언스 학회 **DAYS** 학회원
-
-   - **'서울시 인구수와 CCTV 수 간의 상관관계 분석'** 을 주제로 데이터 분석 개인 프로젝트 진행
-
-### [2021-1] 
-
- 언론정보대학 **창의성과 인터랙션 연구소 서포터즈** 활동
-
-   - 태블로 기초 스터디 참여, 'OTT 서비스&AI 알고리즘'을 주제로 태블로 데이터 시각화 프로젝트 진행
-
-### [2021-1 ~] 
-
- 언론정보대학 정보사회미디어학과 데이터사이언스 학회 **DAYS** 운영진 (홍보부장)
-
-   - DAYS 공식 instagram 관리, 신입생 대상 Python 기초 강의 튜터
-
-   - 데이터 분석 준전문가 자격증 ADsP 스터디 진행
-
-   - 구글 애널리티스 GA 자격증 스터디 참여, 데이터 분석 관련 공모전 참여 활동 관리 및 참여
-
-   - 커넥션 웹 스크래핑 전체 툴스터디 진행
-
-### [2021-1 ~ 2021-2] 
-
- 정보사회미디어학과 학술제 **CONNECTION** 프로젝트 2팀 팀장
-
-   - TEAM **O.T.T. (Over The Top)** 팀장, OTT 서비스를 중심으로 '뉴 미디어 플랫폼'과 관련된 연구 활동 주도
-
-   - 데이터 분석 및 기초 통계 툴 스터디 진행
-
-
-
-## **《Extracurricular Activities》** 
-
-### [2021-1 ~] 
-
- 4차산업혁명 연합동아리 **TAVE** 7기 멤버
-
-   - 전반기 머신러닝 기초 스터디, 후반기 파이썬 알고리즘 스터디 진행
-
-   - 전반기 스터디 우수상 수상, 전반기/후반기 MVP 상 수상  
-
-### [2021-2 ~] 
-
- **TAVE Research** 멤버
-   - **'COVID-19'** 를 주제로 데이터 분석 프로젝트 참여
-
-### [2021-여름 학기] 
-
- DAYS 학회 방중활동 **데이터 분석 관련 공모전** 참여 활동
-
-   - **경상북도 데이터 분석, 공공데이터 활용 창업 경진대회** 참여, 팀 마, 이구미! 결선 진출
-   
-     고객 맞춤형 식품 추천 알고리즘 서비스 구현
-
-   - **영화 빅데이터 구축·활용 과제 발굴을 위한 아이디어 공모전** 참여
-   
-     나만의 영화관 **'모티브'** 어플리케이션 아이디어 발굴
-
- 태블로 데이터 시각화 개인 프로젝트 진행
-
-   - **Viz Lab** 멘토 주도 하에 주 1회 개인 미팅 진행, **'COVID 19'** 를 주제로 시각화 프로젝트 진행
+|                           **Activity**                          |                               **Type**                              |        **Date**       |                                                                                                                                   **Contents**                                                                                                                                  |                    **Organization**                   |
+|:-----------------------------------------------------------:|:---------------------------------------------------------------:|:-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------:|
+|                 Algorithm Club **0&1**  Member                |                 Programming Language, Algorithm                 | 2020.04 ~ 2020.12 |                                                                                                                   C Study, Data Structure Study (with C++)                                                                                                                  |      Hanyang University. College of Computing     |
+|           Tutoring Program TEAM **Anaconda**  Tutee           |                       Programming Language                      | 2020.09 ~ 2020.12 |                                                                                                                         Python Tutoring, Grand Prize                                                                                                                        |                 Hanyang University                |
+|               Data Science Club **DAYS**  Member              |                           Data Science                          | 2020.09 ~ 2020.12 |                                                                 Python Basic Study, Basic Statistic Study, Data Analysis Project **'Correlation Analysis  Between Population in Seoul and The Number of CCTVs'**                                                                |    Hanyang University. College of Communication   |
+|         **Creative  and  Interaction Lab** Supporters         |                       Data Visualization                        | 2021.03 ~ 2021.06 |                                                                              Tableau Basic Study, Tableau Data Visualization Project 'OTT Service Usage Pattern  and  AI Algorithm Technology'                                                                              |  Hanyang University. Creative and Interaction Lab |
+| 4th Industrial Revolution Associated Club **TAVE 7th** Member |                   Machine Learning, Algorithm                   | 2021.03 ~ 2021.07 |                                                                              \|First-Half\| Machine Learning Study, Excellent Prize, MVP Prize, \|Second-Half\| Algorithm Test Study, MVP Prize                                                                             |   4th Industrial Revolution Associated Club TAVE  |
+|          Data Science Club **DAYS**  Management Team          | Promotion, Programming, Data Science, Statistics, Web Scrapping |    2021.03 ing~   |                                                  Promotion Leader (INSTAGRAM manage), Python Basic Study Instructor, ADsP Study, GA Study, Organize Data Analysis Contest Party, CONNECTION Web Scraping Lecture Instructor                                                 |    Hanyang University. Media&Social Informatics   |
+|          Academic Seminar **CONNECTION** Team Leader          |               Media Research,  New Media Platform               | 2021.06 ~ 2021.11 |                     **Focusing on the *OTT Service*, research on the sustainability of the  New Media Platform**, Basic Data Analysis and Statistics Instructor, YouTube Recommended System Experiment, Platform Interface Explore, Web Scraping, Survey...                     |     Hanyang University. Media&Social Informatics  |
+|               **DAYS** Summer Semester Activities               |  Data Analysis Contest, Utilizing Public Data, Idea Competition | 2021.07 ~ 2021.08 | \|**경상북도 데이터 분석, 공공데이터 활용 창업 경진대회**\| Implement a **'Customized Food Recommended Service'**, TEAM 마, 이구미! Enter the Finals,  \|**영화 빅데이터 구축 활용 과제 발굴을 위한 아이디어 공모전**\| Suggest The Idea that **'Personal Movie Theater Application *MOTIVE*** |    Hanyang University. Media&Social Informatics   |
+|               Summer Semester **Tableau Personal Project**               |                        Data Visualization                       | 2021.07 ~ 2021.08 |                                                                                                            Data Visualization Project under the Topic **COVID-19**                                                                                                            |                       VizLab                      |
+|                     **TAVE Research** Member                    |                          Data Analysis                          |    2021.08 ing~   |                                                                                                              Data Analysis Project under the  Topic 'COVID-19'                                                                                                              |                   TAVE Research                   |
 
