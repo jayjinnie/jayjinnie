@@ -12,7 +12,7 @@
 
 🌀 My **GitHub Gist** 👉 <a href="https://gist.github.com/jayjinnie" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Gist-181717?style=flat-square&logo=GitHub&logoColor=white"></a> 
 
-✨ My **Tableau Public** 👉 <a href="https://public.tableau.com/profile/jung.eunjin#!/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"></a> 
+👑  My **Tableau Public** 👉 <a href="https://public.tableau.com/profile/jung.eunjin#!/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"></a> 
 
 🎠 My **Blog** 👉 <a href="https://blog.naver.com/eunvely227" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 
