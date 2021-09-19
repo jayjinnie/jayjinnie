@@ -30,15 +30,17 @@
 
 | **Being Studied**
 
-<img src="https://img.shields.io/badge/pandas-94B4A4?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/XGBoost-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPY&logoColor=white"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white"> <img src="https://img.shields.io/badge/Requests-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/BeautifulSoup-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> 
+<img src="https://img.shields.io/badge/pandas-94B4A4?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/XGBoost-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPY&logoColor=white"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Requests-E3A6AE?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/BeautifulSoup-E3A6AE?style=for-the-badge&logoColor=white"> 
 
 | **Be Learning**
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Plus-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Plus-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
 
 | **Be Interested In**
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 
 --- 
 
