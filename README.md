@@ -28,7 +28,7 @@
 ## ✨ **Data Science Stack** ✨     
 
 <img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=R&logoColor=white"> 
-<img src="https://img.shields.io/badge/pandas-94B4A4?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPY&logoColor=white"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> 
+<img src="https://img.shields.io/badge/pandas-94B4A4?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPY&logoColor=white"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white">
   
 ## ✨ **DataBase Stack** ✨   
   
