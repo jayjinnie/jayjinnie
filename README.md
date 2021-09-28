@@ -2,7 +2,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=300&section=header&text=Welcome%20to%20Eunjin's%20Git%20Hub&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
   
-# 👑My Profile👑
+# 👑Profile👑
 
 ### 🏛 **Hanyang Univ ERICA**
 
