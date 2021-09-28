@@ -8,7 +8,7 @@
 
 ### 📚 *Media & Social Informatics* and *Software*
 
-### I'm currently interested in *Data Analysis*, *Data Visualization*.
+### 🌈 I'm currently interested in *Data Analysis*, *Data Visualization*.
 </div>
 
 --- 
