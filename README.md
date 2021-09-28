@@ -19,7 +19,7 @@
 
 * 🌀My **[GitHub Gist](https://gist.github.com/jayjinnie)**. You can see my **BOJ** solution code here. <img src="https://img.shields.io/badge/GitHub%20Gist-181717?style=flat-square&logo=GitHub&logoColor=white"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayjinnie&show_icons=true&theme=dracula&text_color=835858&bg_color=FFF5EA%border_color=7E6BC4&count_private=true&icon_color=835858) <img src="https://user-images.githubusercontent.com/65335952/135039715-3fc3a966-9b1a-4d43-b93c-96cb9d249f65.gif" width="200" height="200"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayjinnie&show_icons=true&theme=dracula&text_color=835858&bg_color=FFF5EA%border_color=7E6BC4&count_private=true&icon_color=835858) &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/65335952/135041008-48e3d5df-c8ad-4a84-be4c-424cb1bc0335.gif" width="220" height="210"/>
 
 --- 
 
