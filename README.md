@@ -13,7 +13,7 @@
 
 --- 
 
-* 🏠  My **[Portfolio Page](jayjinnie.github.io)**. Welcome to **Eunjin's Archive**!</a> 
+* 🏠  My **[Portfolio Page](https://jayjinnie.github.io)**. Welcome to **Eunjin's Archive!**</a> 
 
 * 💎  My **[Tableau Public](https://public.tableau.com/profile/jung.eunjin#!/)**. You can see my **Data Visualization** here. <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"></a> 
 
