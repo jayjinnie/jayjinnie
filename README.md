@@ -13,7 +13,7 @@
 
 --- 
 
-* 🏠  My **[Portfolio Page](https://jayjinnie.github.io)**. Welcome to **Eunjin's Archive!**</a> 
+* 🏠  My **[Portfolio Page](https://jayjinnie.github.io)**. Welcome to **Eunjin's Archive!**</a>  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjayjinnie.github.io&count_bg=%23FF8FB8&title_bg=%23555555&icon=&icon_color=%23CDC0C0&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 * 💎  My **[Tableau Public](https://public.tableau.com/profile/jung.eunjin#!/)**. You can see my **Data Visualization** here. <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"></a> 
 
@@ -29,8 +29,8 @@
   
 ## ✨ **Data Science Stack** ✨     
 
-<img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=R&logoColor=white"> 
-<img src="https://img.shields.io/badge/pandas-94B4A4?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPY&logoColor=white"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=Google%20Analytics&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPY&logoColor=white"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=Google%20Analytics&logoColor=white">  
   
 ## ✨ **DataBase Stack** ✨   
   
@@ -39,7 +39,13 @@
 ## ✨ **Programming Stack** ✨   
  
 <img src="https://img.shields.io/badge/C-AAAAAA?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-495464?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">  
-  
+ 
+
+## ✨ **Communication Stack** ✨   
+ 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white"> 
+
+
 </div>
   
 --- 
