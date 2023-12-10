@@ -1,56 +1,44 @@
-<div align="center">
+ <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=300&section=header&text=Welcome%20to%20Eunjin's%20Git%20Hub&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
-  
-# 👑Profile👑
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayjinnie&count_bg=%23FFA9BA&title_bg=%23474757&icon=&icon_color=%23FFA2A2&title=Total+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🏛 **Hanyang Univ ERICA**
-
-### 📚 *Media & Social Informatics* and *Software*
-
-### 🌈 I'm currently interested in *Data Analysis*, *Data Visualization*.
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=250&section=header&text=Welcome%20to%20Eunjin's%20Git%20Hub&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
 </div>
 
---- 
+<a href="https://github.com/JONGSKY"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello, My name is **Eunjin Jung**. <br> 
+🏛 I'm currently a student at **Hanyang University ERICA Campus** in South Korea. <br> 
+📚 My majors are **Media & Social Informatics** and **Computer Science**. <br>
+💭 I want to grow into a **data analyst who helps the business establish a DX strategy**. 
 
-* 🏠  My **[Portfolio Page](https://jayjinnie.github.io)**. Welcome to **Eunjin's Archive!**</a>  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjayjinnie.github.io&count_bg=%23FF8FB8&title_bg=%23555555&icon=&icon_color=%23CDC0C0&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-* 💎  My **[Tableau Public](https://public.tableau.com/profile/jung.eunjin#!/)**. You can see my **Data Visualization** here. <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"></a> 
+---
 
-* 🎠 My **[Blog](https://blog.naver.com/eunvely227)**. This is my **archive**, and you can see my activity log. <img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=Blogger&logoColor=white"/></a> 
-
-* 🧬 My **[GitHub Gist](https://gist.github.com/jayjinnie)**. You can see my **BOJ** solution code here. <img src="https://img.shields.io/badge/GitHub%20Gist-181717?style=flat-square&logo=GitHub&logoColor=white"> 
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayjinnie&show_icons=true&theme=dracula&text_color=835858&bg_color=FFF5EA%border_color=7E6BC4&count_private=true&icon_color=835858) &emsp; &emsp; &emsp; <img src="https://user-images.githubusercontent.com/65335952/135041008-48e3d5df-c8ad-4a84-be4c-424cb1bc0335.gif" width="220" height="210"/>
-
---- 
-
-<div align="center">
-  
-## ✨ **Data Science Stack** ✨     
-
-<img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPY&logoColor=white"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=Google%20Analytics&logoColor=white">  
-  
-## ✨ **DataBase Stack** ✨   
-  
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> 
-
-## ✨ **Programming Stack** ✨   
- 
-<img src="https://img.shields.io/badge/C-AAAAAA?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-495464?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">  
- 
-
-## ✨ **Communication Stack** ✨   
- 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white"> 
-
-
 </div>
-  
---- 
 
-<div align="center">
+### ✨ Main Skill Stacks
+<img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=black"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  
 
+### ✨ Python Library Manipulation Level
+**Collection** 🩷🩷🩷🩷🤍<br>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <br>
+**Pre-processing & Analysis** 🩷🩷🩷🩷🩷<br>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <br>
+**ML/DL Modeling** 🩷🩷🩷🤍🤍<br>
+<img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <br>
+**Visualization** 🩷🩷🩷🩷🩷<br>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <br>
+**Engineering** 🩷🩷🤍🤍🤍<br>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"> <br>
+**Web Development** 🩷🩷🩷🤍🤍<br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 
-</div>
+---
+
+### 🔎 If you want to know me more, please check below!
+[![Tableau Badge](https://img.shields.io/badge/-Tableau%20Public-2D4B65?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/jung.eunjin/vizzes#!/)](https://public.tableau.com/app/profile/jung.eunjin/vizzes#!/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ej.jung_227/)](https://www.instagram.com/ej.jung_227/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvergem227/)](https://www.linkedin.com/in/silvergem227/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayjinnie@hanyang.ac.kr)](mailto:jayjinnie@hanyang.ac.kr)
