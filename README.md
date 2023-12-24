@@ -10,13 +10,7 @@
 📚 My majors are **Media & Social Informatics** and **Computer Science**. <br>
 💭 I want to grow into a **data analyst who helps the business establish a DX strategy**. 
 
-
 ---
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayjinnie&show_icons=true&theme=dracula&text_color=835858&bg_color=FFF5EA%border_color=7E6BC4&count_private=true&icon_color=835858) &emsp; &emsp; &emsp; <img src="https://user-images.githubusercontent.com/65335952/135041008-48e3d5df-c8ad-4a84-be4c-424cb1bc0335.gif" width="220" height="210"/>
-</div>
 
 ### ✨ Main Skill Stacks
 <img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=black"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  
