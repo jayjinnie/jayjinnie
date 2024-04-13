@@ -6,9 +6,9 @@
 </div>
 
 <a href="https://github.com/JONGSKY"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello, My name is **Eunjin Jung**. <br> 
-🏛 I'm currently a student at **Hanyang University ERICA Campus** in South Korea. <br> 
+🏛 I am currently working as a **Solution QA/Health&Safety Manager** at **KT** in South Korea. <br> 
 📚 My majors are **Media & Social Informatics** and **Computer Science**. <br>
-💭 I want to grow into a **data analyst who helps the business establish a DX strategy**. 
+💭 I want to become **a professional who oversees the overall DX solution** and **successfully executes projects.**
 
 ---
 
@@ -32,7 +32,7 @@
 ---
 
 ### 🔎 If you want to know me more, please check below!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvergem227/)](https://www.linkedin.com/in/silvergem227/)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau%20Public-2D4B65?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/jung.eunjin/vizzes#!/)](https://public.tableau.com/app/profile/jung.eunjin/vizzes#!/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ej.jung_227/)](https://www.instagram.com/ej.jung_227/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvergem227/)](https://www.linkedin.com/in/silvergem227/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayjinnie@hanyang.ac.kr)](mailto:jayjinnie@hanyang.ac.kr)
