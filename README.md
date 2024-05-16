@@ -6,9 +6,10 @@
 </div>
 
 <a href="https://github.com/JONGSKY"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello, My name is **Eunjin Jung**. <br> 
-🏢 I am currently working as a **Solution QA/Health&Safety Manager** at **KT** in South Korea. <br> 
+🏢 I am currently working as a **Project QA Manager** at **KT** in South Korea. <br> 
 📚 My majors are **Media & Social Informatics** and **Computer Science**. <br>
-💭 I want to become **a professional who oversees the overall DX solution** and **successfully executes projects.**
+💭 Based on my experience in **proposing solutions through data analysis,** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I'm creating guidelines for projects to reach customers successfully.**
 
 ---
 
