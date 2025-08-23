@@ -1,7 +1,5 @@
  <div align="center">
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayjinnie&count_bg=%23FFA9BA&title_bg=%23474757&icon=&icon_color=%23FFA2A2&title=Total+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=250&section=header&text=Welcome%20to%20Eunjin's%20Git%20Hub&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
 </div>
 
